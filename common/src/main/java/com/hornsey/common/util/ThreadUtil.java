@@ -1,4 +1,4 @@
-package com.hornsey.util;
+package com.hornsey.common.util;
 
 import java.util.concurrent.TimeUnit;
 
