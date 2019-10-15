@@ -1,6 +1,7 @@
 package com.hornsey.concurrent;
 
-import com.hornsey.util.ThreadUtil;
+
+import com.hornsey.common.util.ThreadUtil;
 
 import java.util.concurrent.CountDownLatch;
 

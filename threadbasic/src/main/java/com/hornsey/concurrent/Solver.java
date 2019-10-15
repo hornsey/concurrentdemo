@@ -1,9 +1,9 @@
 package com.hornsey.concurrent;
 
-import com.hornsey.util.ThreadUtil;
+
+import com.hornsey.common.util.ThreadUtil;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 import java.util.concurrent.BrokenBarrierException;
